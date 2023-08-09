@@ -1,0 +1,32 @@
+{"projects": [
+    {
+        "gym": "RoKC",
+        "climbType": "Boulder, Top Rope",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRt6eDsKgOnbHWuSaScJqeoLQSeLYEJ4gBpWmddQs5Q&s",
+        "alt": "person bouldering"
+    },
+    {
+        "gym": "RoKC Underground",
+        "climbType": "Boulder",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPWT0GF8GyXtbSzufKZLi_8d0FMBuwB7UPZoEyev03A&s",
+        "alt": "Underground Bouldering Wall"
+    },
+    {
+        "gym": "Sequence",
+        "climbType": "Boulder",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1DWSji6r-N9TcVva6IuuIDBEpmBXJqHjbxf4sNKnWg&s",
+        "alt": "People bouledering"
+    },
+    {
+        "gym": "Apex",
+        "climbType": "Boulder, Top Rope",
+        "photoUrl": "https://lh5.googleusercontent.com/p/AF1QipPyd6wi6lV23G5zffxxk0ZbWlKX5ia8eyEzJDWR=w408-h271-k-no",
+        "alt": "Apex bouldering wall"
+    },
+    {
+        "gym": "Ibex",
+        "climbType": "Boulder, Top Rope",
+        "photoUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/1zk14LdJ_QUXx97wQqcvxA/348s.jpg",
+        "alt": "Ibex climbing gym"
+    }
+]}
